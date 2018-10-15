@@ -1,0 +1,54 @@
+.pm__image-quote {
+  background: #353535;
+  max-height: 45vh;
+  position: relative;
+}
+
+.pm__image-quote img {
+  max-height: 45vh;
+}
+
+.pm__image-quote__container  {
+  display: block;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.pm__image-quote__quote  {
+  align-items: left;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  font-size: 3vh;
+  line-height: 1.35em;
+  right: 0%;
+  position: absolute;
+  width: 60%;
+  top: 0;
+}
+
+.pm__image-quote__attribution  {
+  font-size: 1.85vh;
+  margin-top: 1vh;
+}
+
+@media screen and (max-width: 480px){
+  .pm__image-quote__quote {
+    font-size: 2vh;
+  }
+}
+
+@media screen and (max-width: 800px){
+  .pm__image-quote__quote {
+    background: rgba(255,255,255, 0.5);
+    color: var(--pm__black);
+    padding: 5%;
+    width: 100%;
+  }
+}

@@ -1,0 +1,46 @@
+.pm__footer {
+  align-items: flex-start;
+  display: flex;
+  margin: 0 auto;
+  max-width: var(--desktop-width);
+}
+
+.pm__footer img {
+  align-self: flex-start;
+  margin-right: 3vh;
+}
+
+.pm__organization {
+  display: flex;
+  font-size: 2.15vh;
+  line-height: 1.45em;
+  flex: 1;
+}
+
+.pm__organization:first-child {
+  margin-right: 3vh;
+}
+
+.discontent__logo {
+  border-radius: 0.75vh;
+  height: 8vh;
+}
+
+.progressive-mass__logo {
+  width: 12vh;
+}
+
+@media screen and (max-width: 800px){
+  .pm__footer {
+    display: block;
+  }
+  .pm__footer img {
+    display: block;
+    margin: 2vh auto;
+  }
+  .pm__footer .pm__organization {
+    display: block;
+    margin: 0 auto 8vh !important;
+    text-align: center;
+  }
+}

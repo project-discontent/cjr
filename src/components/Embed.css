@@ -1,0 +1,11 @@
+.pm__video-embed {
+  margin: 0% auto;
+  margin-top: -18%;
+  width: 63%;
+}
+
+@media screen and (max-width: 800px){
+  .pm__video-embed {
+    width: 100%;
+  }
+}

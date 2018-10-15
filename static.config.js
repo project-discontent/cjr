@@ -1,6 +1,8 @@
 import axios from 'axios'
+import Document from './src/Document'
 
 export default {
+  Document,
   getSiteData: () => ({
     title: 'React Static',
   }),

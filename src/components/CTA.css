@@ -1,0 +1,15 @@
+.pm__cta {
+  font-size: 2.35vh;
+  line-height: 1.65em;
+  max-width: var(--desktop-width);
+  margin: 0 auto;
+  text-align: center;
+}
+
+.pm__mini-quote {
+  font-size: 2vh;
+  line-height: 1.65em;
+  max-width: var(--desktop-width);
+  margin: 0 auto;
+  text-align: center;
+}

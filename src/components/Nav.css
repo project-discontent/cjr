@@ -1,0 +1,16 @@
+.pm-navbar {
+  align-items: center;
+  background: none !important;
+  display: flex;
+  height: 5em;
+  justify-content: space-between;
+  position: relative;
+}
+
+.pm-navbar__cta {
+  background: none !important;
+  border: 1px solid white;
+  color: white !important;
+  font-size: 1.65vh;
+  padding: 1vh 1.45vh;
+}
