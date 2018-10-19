@@ -3,6 +3,9 @@ import Document from './src/Document'
 
 export default {
   Document,
+  paths: {
+    dist: "docs"
+  },
   getSiteData: () => ({
     title: 'React Static',
   }),
