@@ -2,8 +2,8 @@
   "errors": [],
   "warnings": [],
   "version": "3.12.0",
-  "hash": "3d3680802d5f5bf46db3",
-  "time": 5486,
+  "hash": "b14b9c3e7df03c908503",
+  "time": 5554,
   "publicPath": "/",
   "assetsByChunkName": {
     "src/containers/Home": "templates/src/containers/Home.60bb5c26.js",
@@ -13,8 +13,8 @@
     "src/containers/404": "templates/src/containers/404.78fd131c.js",
     "main": [
       "main.8cefe871.js",
-      "styles.3d368080.css",
-      "styles.3d368080.css.map"
+      "styles.b14b9c3e.css",
+      "styles.b14b9c3e.css.map"
     ],
     "bootstrap": "bootstrap.acec9898.js"
   },
@@ -114,7 +114,7 @@
       "emitted": true
     },
     {
-      "name": "styles.3d368080.css",
+      "name": "styles.b14b9c3e.css",
       "size": 4547,
       "chunks": [
         5
@@ -125,7 +125,7 @@
       "emitted": true
     },
     {
-      "name": "styles.3d368080.css.map",
+      "name": "styles.b14b9c3e.css.map",
       "size": 96,
       "chunks": [
         5
@@ -146,8 +146,8 @@
       "assets": [
         "bootstrap.acec9898.js",
         "main.8cefe871.js",
-        "styles.3d368080.css",
-        "styles.3d368080.css.map"
+        "styles.b14b9c3e.css",
+        "styles.b14b9c3e.css.map"
       ],
       "isOverSizeLimit": true
     }
@@ -1172,8 +1172,8 @@
       ],
       "files": [
         "main.8cefe871.js",
-        "styles.3d368080.css",
-        "styles.3d368080.css.map"
+        "styles.b14b9c3e.css",
+        "styles.b14b9c3e.css.map"
       ],
       "hash": "8cefe871f3813dcd1d07",
       "parents": [
@@ -1656,9 +1656,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/SiteData.js",
-          "issuerId": 114,
-          "issuerName": "./node_modules/react-static/lib/client/components/SiteData.js",
+          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/RouteData.js",
+          "issuerId": 92,
+          "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -2242,9 +2242,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createBrowserHistory.js",
-          "issuerId": 119,
-          "issuerName": "./node_modules/history/createBrowserHistory.js",
+          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createMemoryHistory.js",
+          "issuerId": 120,
+          "issuerName": "./node_modules/history/createMemoryHistory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -2551,9 +2551,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/SiteData.js",
-          "issuerId": 114,
-          "issuerName": "./node_modules/react-static/lib/client/components/SiteData.js",
+          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/RouteData.js",
+          "issuerId": 92,
+          "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -2741,9 +2741,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/docs/react-static-routes.js",
-          "issuerId": 130,
-          "issuerName": "./docs/react-static-routes.js",
+          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/RouteData.js",
+          "issuerId": 92,
+          "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3198,9 +3198,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createBrowserHistory.js",
-          "issuerId": 119,
-          "issuerName": "./node_modules/history/createBrowserHistory.js",
+          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createMemoryHistory.js",
+          "issuerId": 120,
+          "issuerName": "./node_modules/history/createMemoryHistory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3346,9 +3346,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react/cjs/react.production.min.js",
-          "issuerId": 56,
-          "issuerName": "./node_modules/react/cjs/react.production.min.js",
+          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-dom/cjs/react-dom.production.min.js",
+          "issuerId": 58,
+          "issuerName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3402,9 +3402,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/es/createMemoryHistory.js",
-          "issuerId": 67,
-          "issuerName": "./node_modules/history/es/createMemoryHistory.js",
+          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/es/createBrowserHistory.js",
+          "issuerId": 65,
+          "issuerName": "./node_modules/history/es/createBrowserHistory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3698,9 +3698,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/SiteData.js",
-          "issuerId": 114,
-          "issuerName": "./node_modules/react-static/lib/client/components/SiteData.js",
+          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/RouteData.js",
+          "issuerId": 92,
+          "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3754,9 +3754,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createBrowserHistory.js",
-          "issuerId": 119,
-          "issuerName": "./node_modules/history/createBrowserHistory.js",
+          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createMemoryHistory.js",
+          "issuerId": 120,
+          "issuerName": "./node_modules/history/createMemoryHistory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3810,9 +3810,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createBrowserHistory.js",
-          "issuerId": 119,
-          "issuerName": "./node_modules/history/createBrowserHistory.js",
+          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createMemoryHistory.js",
+          "issuerId": 120,
+          "issuerName": "./node_modules/history/createMemoryHistory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -4423,9 +4423,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/SiteData.js",
-          "issuerId": 114,
-          "issuerName": "./node_modules/react-static/lib/client/components/SiteData.js",
+          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/methods.js",
+          "issuerId": 11,
+          "issuerName": "./node_modules/react-static/lib/client/methods.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -8786,9 +8786,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/SiteData.js",
-      "issuerId": 114,
-      "issuerName": "./node_modules/react-static/lib/client/components/SiteData.js",
+      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/RouteData.js",
+      "issuerId": 92,
+      "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -9372,9 +9372,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createBrowserHistory.js",
-      "issuerId": 119,
-      "issuerName": "./node_modules/history/createBrowserHistory.js",
+      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createMemoryHistory.js",
+      "issuerId": 120,
+      "issuerName": "./node_modules/history/createMemoryHistory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -9681,9 +9681,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/SiteData.js",
-      "issuerId": 114,
-      "issuerName": "./node_modules/react-static/lib/client/components/SiteData.js",
+      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/RouteData.js",
+      "issuerId": 92,
+      "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -9871,9 +9871,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/docs/react-static-routes.js",
-      "issuerId": 130,
-      "issuerName": "./docs/react-static-routes.js",
+      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/RouteData.js",
+      "issuerId": 92,
+      "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -10328,9 +10328,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createBrowserHistory.js",
-      "issuerId": 119,
-      "issuerName": "./node_modules/history/createBrowserHistory.js",
+      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createMemoryHistory.js",
+      "issuerId": 120,
+      "issuerName": "./node_modules/history/createMemoryHistory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -10476,9 +10476,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react/cjs/react.production.min.js",
-      "issuerId": 56,
-      "issuerName": "./node_modules/react/cjs/react.production.min.js",
+      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-dom/cjs/react-dom.production.min.js",
+      "issuerId": 58,
+      "issuerName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -10532,9 +10532,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/es/createMemoryHistory.js",
-      "issuerId": 67,
-      "issuerName": "./node_modules/history/es/createMemoryHistory.js",
+      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/es/createBrowserHistory.js",
+      "issuerId": 65,
+      "issuerName": "./node_modules/history/es/createBrowserHistory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -10828,9 +10828,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/SiteData.js",
-      "issuerId": 114,
-      "issuerName": "./node_modules/react-static/lib/client/components/SiteData.js",
+      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/RouteData.js",
+      "issuerId": 92,
+      "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -10884,9 +10884,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createBrowserHistory.js",
-      "issuerId": 119,
-      "issuerName": "./node_modules/history/createBrowserHistory.js",
+      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createMemoryHistory.js",
+      "issuerId": 120,
+      "issuerName": "./node_modules/history/createMemoryHistory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -10940,9 +10940,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createBrowserHistory.js",
-      "issuerId": 119,
-      "issuerName": "./node_modules/history/createBrowserHistory.js",
+      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/history/createMemoryHistory.js",
+      "issuerId": 120,
+      "issuerName": "./node_modules/history/createMemoryHistory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -11553,9 +11553,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/components/SiteData.js",
-      "issuerId": 114,
-      "issuerName": "./node_modules/react-static/lib/client/components/SiteData.js",
+      "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/react-static/lib/client/methods.js",
+      "issuerId": 11,
+      "issuerName": "./node_modules/react-static/lib/client/methods.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -16831,374 +16831,6 @@
           "initial": true,
           "entry": true,
           "extraAsync": false,
-          "size": 2818,
-          "names": [],
-          "files": [
-            "extract-text-webpack-plugin-output-filename"
-          ],
-          "hash": "828dd2f0995369611322",
-          "parents": [],
-          "modules": [
-            {
-              "id": 0,
-              "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
-              "name": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
-              "index": 0,
-              "index2": 1,
-              "size": 558,
-              "cacheable": true,
-              "built": true,
-              "optional": false,
-              "prefetched": false,
-              "chunks": [
-                0
-              ],
-              "assets": [],
-              "issuer": null,
-              "issuerId": null,
-              "issuerName": null,
-              "failed": false,
-              "errors": 0,
-              "warnings": 0,
-              "reasons": [],
-              "usedExports": true,
-              "providedExports": null,
-              "optimizationBailout": [],
-              "depth": 0,
-              "source": "exports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \".pm-stat__icon{background:gray;border-radius:100%;height:3em;margin:0 auto 1em;width:3em}.pm-stat{text-align:center;font-size:2.15vh;line-height:1.65em;width:28%}.pm-stats{display:-ms-flexbox;display:flex;-ms-flex-pack:justify;justify-content:space-between;margin:0 auto;max-width:var(--desktop-width)}@media screen and (max-width:800px){.pm-stat{margin:0 auto;width:80%}.pm-stats{display:block}}\", \"\"]);\n\n// exports\n"
-            },
-            {
-              "id": 1,
-              "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/lib/css-base.js",
-              "name": "./node_modules/css-loader/lib/css-base.js",
-              "index": 1,
-              "index2": 0,
-              "size": 2260,
-              "cacheable": true,
-              "built": true,
-              "optional": false,
-              "prefetched": false,
-              "chunks": [
-                0
-              ],
-              "assets": [],
-              "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
-              "issuerId": 0,
-              "issuerName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
-              "failed": false,
-              "errors": 0,
-              "warnings": 0,
-              "reasons": [
-                {
-                  "moduleId": 0,
-                  "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
-                  "module": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
-                  "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
-                  "type": "cjs require",
-                  "userRequest": "../../node_modules/css-loader/lib/css-base.js",
-                  "loc": "1:27-83"
-                }
-              ],
-              "usedExports": true,
-              "providedExports": null,
-              "optimizationBailout": [],
-              "depth": 1,
-              "source": "/*\n\tMIT License http://www.opensource.org/licenses/mit-license.php\n\tAuthor Tobias Koppers @sokra\n*/\n// css base code, injected by the css-loader\nmodule.exports = function(useSourceMap) {\n\tvar list = [];\n\n\t// return the list of modules as css string\n\tlist.toString = function toString() {\n\t\treturn this.map(function (item) {\n\t\t\tvar content = cssWithMappingToString(item, useSourceMap);\n\t\t\tif(item[2]) {\n\t\t\t\treturn \"@media \" + item[2] + \"{\" + content + \"}\";\n\t\t\t} else {\n\t\t\t\treturn content;\n\t\t\t}\n\t\t}).join(\"\");\n\t};\n\n\t// import a list of modules into the list\n\tlist.i = function(modules, mediaQuery) {\n\t\tif(typeof modules === \"string\")\n\t\t\tmodules = [[null, modules, \"\"]];\n\t\tvar alreadyImportedModules = {};\n\t\tfor(var i = 0; i < this.length; i++) {\n\t\t\tvar id = this[i][0];\n\t\t\tif(typeof id === \"number\")\n\t\t\t\talreadyImportedModules[id] = true;\n\t\t}\n\t\tfor(i = 0; i < modules.length; i++) {\n\t\t\tvar item = modules[i];\n\t\t\t// skip already imported module\n\t\t\t// this implementation is not 100% perfect for weird media query combinations\n\t\t\t//  when a module is imported multiple times with different media queries.\n\t\t\t//  I hope this will never occur (Hey this way we have smaller bundles)\n\t\t\tif(typeof item[0] !== \"number\" || !alreadyImportedModules[item[0]]) {\n\t\t\t\tif(mediaQuery && !item[2]) {\n\t\t\t\t\titem[2] = mediaQuery;\n\t\t\t\t} else if(mediaQuery) {\n\t\t\t\t\titem[2] = \"(\" + item[2] + \") and (\" + mediaQuery + \")\";\n\t\t\t\t}\n\t\t\t\tlist.push(item);\n\t\t\t}\n\t\t}\n\t};\n\treturn list;\n};\n\nfunction cssWithMappingToString(item, useSourceMap) {\n\tvar content = item[1] || '';\n\tvar cssMapping = item[3];\n\tif (!cssMapping) {\n\t\treturn content;\n\t}\n\n\tif (useSourceMap && typeof btoa === 'function') {\n\t\tvar sourceMapping = toComment(cssMapping);\n\t\tvar sourceURLs = cssMapping.sources.map(function (source) {\n\t\t\treturn '/*# sourceURL=' + cssMapping.sourceRoot + source + ' */'\n\t\t});\n\n\t\treturn [content].concat(sourceURLs).concat([sourceMapping]).join('\\n');\n\t}\n\n\treturn [content].join('\\n');\n}\n\n// Adapted from convert-source-map (MIT)\nfunction toComment(sourceMap) {\n\t// eslint-disable-next-line no-undef\n\tvar base64 = btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap))));\n\tvar data = 'sourceMappingURL=data:application/json;charset=utf-8;base64,' + base64;\n\n\treturn '/*# ' + data + ' */';\n}\n"
-            }
-          ],
-          "filteredModules": 0,
-          "origins": [
-            {
-              "moduleId": 0,
-              "module": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
-              "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
-              "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
-              "loc": "",
-              "reasons": []
-            }
-          ]
-        }
-      ],
-      "modules": [
-        {
-          "id": 0,
-          "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
-          "name": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
-          "index": 0,
-          "index2": 1,
-          "size": 558,
-          "cacheable": true,
-          "built": true,
-          "optional": false,
-          "prefetched": false,
-          "chunks": [
-            0
-          ],
-          "assets": [],
-          "issuer": null,
-          "issuerId": null,
-          "issuerName": null,
-          "failed": false,
-          "errors": 0,
-          "warnings": 0,
-          "reasons": [],
-          "usedExports": true,
-          "providedExports": null,
-          "optimizationBailout": [],
-          "depth": 0,
-          "source": "exports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \".pm-stat__icon{background:gray;border-radius:100%;height:3em;margin:0 auto 1em;width:3em}.pm-stat{text-align:center;font-size:2.15vh;line-height:1.65em;width:28%}.pm-stats{display:-ms-flexbox;display:flex;-ms-flex-pack:justify;justify-content:space-between;margin:0 auto;max-width:var(--desktop-width)}@media screen and (max-width:800px){.pm-stat{margin:0 auto;width:80%}.pm-stats{display:block}}\", \"\"]);\n\n// exports\n"
-        },
-        {
-          "id": 1,
-          "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/lib/css-base.js",
-          "name": "./node_modules/css-loader/lib/css-base.js",
-          "index": 1,
-          "index2": 0,
-          "size": 2260,
-          "cacheable": true,
-          "built": true,
-          "optional": false,
-          "prefetched": false,
-          "chunks": [
-            0
-          ],
-          "assets": [],
-          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
-          "issuerId": 0,
-          "issuerName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
-          "failed": false,
-          "errors": 0,
-          "warnings": 0,
-          "reasons": [
-            {
-              "moduleId": 0,
-              "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
-              "module": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
-              "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
-              "type": "cjs require",
-              "userRequest": "../../node_modules/css-loader/lib/css-base.js",
-              "loc": "1:27-83"
-            }
-          ],
-          "usedExports": true,
-          "providedExports": null,
-          "optimizationBailout": [],
-          "depth": 1,
-          "source": "/*\n\tMIT License http://www.opensource.org/licenses/mit-license.php\n\tAuthor Tobias Koppers @sokra\n*/\n// css base code, injected by the css-loader\nmodule.exports = function(useSourceMap) {\n\tvar list = [];\n\n\t// return the list of modules as css string\n\tlist.toString = function toString() {\n\t\treturn this.map(function (item) {\n\t\t\tvar content = cssWithMappingToString(item, useSourceMap);\n\t\t\tif(item[2]) {\n\t\t\t\treturn \"@media \" + item[2] + \"{\" + content + \"}\";\n\t\t\t} else {\n\t\t\t\treturn content;\n\t\t\t}\n\t\t}).join(\"\");\n\t};\n\n\t// import a list of modules into the list\n\tlist.i = function(modules, mediaQuery) {\n\t\tif(typeof modules === \"string\")\n\t\t\tmodules = [[null, modules, \"\"]];\n\t\tvar alreadyImportedModules = {};\n\t\tfor(var i = 0; i < this.length; i++) {\n\t\t\tvar id = this[i][0];\n\t\t\tif(typeof id === \"number\")\n\t\t\t\talreadyImportedModules[id] = true;\n\t\t}\n\t\tfor(i = 0; i < modules.length; i++) {\n\t\t\tvar item = modules[i];\n\t\t\t// skip already imported module\n\t\t\t// this implementation is not 100% perfect for weird media query combinations\n\t\t\t//  when a module is imported multiple times with different media queries.\n\t\t\t//  I hope this will never occur (Hey this way we have smaller bundles)\n\t\t\tif(typeof item[0] !== \"number\" || !alreadyImportedModules[item[0]]) {\n\t\t\t\tif(mediaQuery && !item[2]) {\n\t\t\t\t\titem[2] = mediaQuery;\n\t\t\t\t} else if(mediaQuery) {\n\t\t\t\t\titem[2] = \"(\" + item[2] + \") and (\" + mediaQuery + \")\";\n\t\t\t\t}\n\t\t\t\tlist.push(item);\n\t\t\t}\n\t\t}\n\t};\n\treturn list;\n};\n\nfunction cssWithMappingToString(item, useSourceMap) {\n\tvar content = item[1] || '';\n\tvar cssMapping = item[3];\n\tif (!cssMapping) {\n\t\treturn content;\n\t}\n\n\tif (useSourceMap && typeof btoa === 'function') {\n\t\tvar sourceMapping = toComment(cssMapping);\n\t\tvar sourceURLs = cssMapping.sources.map(function (source) {\n\t\t\treturn '/*# sourceURL=' + cssMapping.sourceRoot + source + ' */'\n\t\t});\n\n\t\treturn [content].concat(sourceURLs).concat([sourceMapping]).join('\\n');\n\t}\n\n\treturn [content].join('\\n');\n}\n\n// Adapted from convert-source-map (MIT)\nfunction toComment(sourceMap) {\n\t// eslint-disable-next-line no-undef\n\tvar base64 = btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap))));\n\tvar data = 'sourceMappingURL=data:application/json;charset=utf-8;base64,' + base64;\n\n\treturn '/*# ' + data + ' */';\n}\n"
-        }
-      ],
-      "filteredModules": 0,
-      "children": [],
-      "name": "extract-text-webpack-plugin node_modules/extract-text-webpack-plugin/dist node_modules/css-loader/index.js??ref--0-oneOf-1-2!node_modules/postcss-loader/lib/index.js??postcss!src/components/Stats.css"
-    },
-    {
-      "errors": [],
-      "warnings": [],
-      "publicPath": "/",
-      "assetsByChunkName": {},
-      "assets": [],
-      "filteredAssets": 0,
-      "entrypoints": {
-        "undefined": {
-          "chunks": [
-            0
-          ],
-          "assets": [
-            "extract-text-webpack-plugin-output-filename"
-          ]
-        }
-      },
-      "chunks": [
-        {
-          "id": 0,
-          "rendered": true,
-          "initial": true,
-          "entry": true,
-          "extraAsync": false,
-          "size": 3277,
-          "names": [],
-          "files": [
-            "extract-text-webpack-plugin-output-filename"
-          ],
-          "hash": "caa6a7813dd2629d5115",
-          "parents": [],
-          "modules": [
-            {
-              "id": 0,
-              "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
-              "name": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
-              "index": 0,
-              "index2": 1,
-              "size": 1017,
-              "cacheable": true,
-              "built": true,
-              "optional": false,
-              "prefetched": false,
-              "chunks": [
-                0
-              ],
-              "assets": [],
-              "issuer": null,
-              "issuerId": null,
-              "issuerName": null,
-              "failed": false,
-              "errors": 0,
-              "warnings": 0,
-              "reasons": [],
-              "usedExports": true,
-              "providedExports": null,
-              "optimizationBailout": [],
-              "depth": 0,
-              "source": "exports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \".pm__image-quote{background:#353535;max-height:45vh;position:relative}.pm__image-quote img{max-height:45vh}.pm__image-quote__container{display:block;height:100%;position:absolute;top:0;width:100%;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%)}.pm__image-quote__quote{-ms-flex-align:left;align-items:left;color:#fff;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-flex-pack:center;justify-content:center;height:100%;font-size:3vh;line-height:1.35em;right:0;position:absolute;width:60%;top:0}.pm__image-quote__attribution{font-size:1.85vh;margin-top:1vh}@media screen and (max-width:480px){.pm__image-quote__quote{font-size:2vh}}@media screen and (max-width:800px){.pm__image-quote__quote{background:hsla(0,0%,100%,.5);color:var(--pm__black);padding:5%;width:100%}}\", \"\"]);\n\n// exports\n"
-            },
-            {
-              "id": 1,
-              "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/lib/css-base.js",
-              "name": "./node_modules/css-loader/lib/css-base.js",
-              "index": 1,
-              "index2": 0,
-              "size": 2260,
-              "cacheable": true,
-              "built": true,
-              "optional": false,
-              "prefetched": false,
-              "chunks": [
-                0
-              ],
-              "assets": [],
-              "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
-              "issuerId": 0,
-              "issuerName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
-              "failed": false,
-              "errors": 0,
-              "warnings": 0,
-              "reasons": [
-                {
-                  "moduleId": 0,
-                  "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
-                  "module": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
-                  "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
-                  "type": "cjs require",
-                  "userRequest": "../../node_modules/css-loader/lib/css-base.js",
-                  "loc": "1:27-83"
-                }
-              ],
-              "usedExports": true,
-              "providedExports": null,
-              "optimizationBailout": [],
-              "depth": 1,
-              "source": "/*\n\tMIT License http://www.opensource.org/licenses/mit-license.php\n\tAuthor Tobias Koppers @sokra\n*/\n// css base code, injected by the css-loader\nmodule.exports = function(useSourceMap) {\n\tvar list = [];\n\n\t// return the list of modules as css string\n\tlist.toString = function toString() {\n\t\treturn this.map(function (item) {\n\t\t\tvar content = cssWithMappingToString(item, useSourceMap);\n\t\t\tif(item[2]) {\n\t\t\t\treturn \"@media \" + item[2] + \"{\" + content + \"}\";\n\t\t\t} else {\n\t\t\t\treturn content;\n\t\t\t}\n\t\t}).join(\"\");\n\t};\n\n\t// import a list of modules into the list\n\tlist.i = function(modules, mediaQuery) {\n\t\tif(typeof modules === \"string\")\n\t\t\tmodules = [[null, modules, \"\"]];\n\t\tvar alreadyImportedModules = {};\n\t\tfor(var i = 0; i < this.length; i++) {\n\t\t\tvar id = this[i][0];\n\t\t\tif(typeof id === \"number\")\n\t\t\t\talreadyImportedModules[id] = true;\n\t\t}\n\t\tfor(i = 0; i < modules.length; i++) {\n\t\t\tvar item = modules[i];\n\t\t\t// skip already imported module\n\t\t\t// this implementation is not 100% perfect for weird media query combinations\n\t\t\t//  when a module is imported multiple times with different media queries.\n\t\t\t//  I hope this will never occur (Hey this way we have smaller bundles)\n\t\t\tif(typeof item[0] !== \"number\" || !alreadyImportedModules[item[0]]) {\n\t\t\t\tif(mediaQuery && !item[2]) {\n\t\t\t\t\titem[2] = mediaQuery;\n\t\t\t\t} else if(mediaQuery) {\n\t\t\t\t\titem[2] = \"(\" + item[2] + \") and (\" + mediaQuery + \")\";\n\t\t\t\t}\n\t\t\t\tlist.push(item);\n\t\t\t}\n\t\t}\n\t};\n\treturn list;\n};\n\nfunction cssWithMappingToString(item, useSourceMap) {\n\tvar content = item[1] || '';\n\tvar cssMapping = item[3];\n\tif (!cssMapping) {\n\t\treturn content;\n\t}\n\n\tif (useSourceMap && typeof btoa === 'function') {\n\t\tvar sourceMapping = toComment(cssMapping);\n\t\tvar sourceURLs = cssMapping.sources.map(function (source) {\n\t\t\treturn '/*# sourceURL=' + cssMapping.sourceRoot + source + ' */'\n\t\t});\n\n\t\treturn [content].concat(sourceURLs).concat([sourceMapping]).join('\\n');\n\t}\n\n\treturn [content].join('\\n');\n}\n\n// Adapted from convert-source-map (MIT)\nfunction toComment(sourceMap) {\n\t// eslint-disable-next-line no-undef\n\tvar base64 = btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap))));\n\tvar data = 'sourceMappingURL=data:application/json;charset=utf-8;base64,' + base64;\n\n\treturn '/*# ' + data + ' */';\n}\n"
-            }
-          ],
-          "filteredModules": 0,
-          "origins": [
-            {
-              "moduleId": 0,
-              "module": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
-              "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
-              "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
-              "loc": "",
-              "reasons": []
-            }
-          ]
-        }
-      ],
-      "modules": [
-        {
-          "id": 0,
-          "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
-          "name": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
-          "index": 0,
-          "index2": 1,
-          "size": 1017,
-          "cacheable": true,
-          "built": true,
-          "optional": false,
-          "prefetched": false,
-          "chunks": [
-            0
-          ],
-          "assets": [],
-          "issuer": null,
-          "issuerId": null,
-          "issuerName": null,
-          "failed": false,
-          "errors": 0,
-          "warnings": 0,
-          "reasons": [],
-          "usedExports": true,
-          "providedExports": null,
-          "optimizationBailout": [],
-          "depth": 0,
-          "source": "exports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \".pm__image-quote{background:#353535;max-height:45vh;position:relative}.pm__image-quote img{max-height:45vh}.pm__image-quote__container{display:block;height:100%;position:absolute;top:0;width:100%;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%)}.pm__image-quote__quote{-ms-flex-align:left;align-items:left;color:#fff;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-flex-pack:center;justify-content:center;height:100%;font-size:3vh;line-height:1.35em;right:0;position:absolute;width:60%;top:0}.pm__image-quote__attribution{font-size:1.85vh;margin-top:1vh}@media screen and (max-width:480px){.pm__image-quote__quote{font-size:2vh}}@media screen and (max-width:800px){.pm__image-quote__quote{background:hsla(0,0%,100%,.5);color:var(--pm__black);padding:5%;width:100%}}\", \"\"]);\n\n// exports\n"
-        },
-        {
-          "id": 1,
-          "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/lib/css-base.js",
-          "name": "./node_modules/css-loader/lib/css-base.js",
-          "index": 1,
-          "index2": 0,
-          "size": 2260,
-          "cacheable": true,
-          "built": true,
-          "optional": false,
-          "prefetched": false,
-          "chunks": [
-            0
-          ],
-          "assets": [],
-          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
-          "issuerId": 0,
-          "issuerName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
-          "failed": false,
-          "errors": 0,
-          "warnings": 0,
-          "reasons": [
-            {
-              "moduleId": 0,
-              "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
-              "module": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
-              "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
-              "type": "cjs require",
-              "userRequest": "../../node_modules/css-loader/lib/css-base.js",
-              "loc": "1:27-83"
-            }
-          ],
-          "usedExports": true,
-          "providedExports": null,
-          "optimizationBailout": [],
-          "depth": 1,
-          "source": "/*\n\tMIT License http://www.opensource.org/licenses/mit-license.php\n\tAuthor Tobias Koppers @sokra\n*/\n// css base code, injected by the css-loader\nmodule.exports = function(useSourceMap) {\n\tvar list = [];\n\n\t// return the list of modules as css string\n\tlist.toString = function toString() {\n\t\treturn this.map(function (item) {\n\t\t\tvar content = cssWithMappingToString(item, useSourceMap);\n\t\t\tif(item[2]) {\n\t\t\t\treturn \"@media \" + item[2] + \"{\" + content + \"}\";\n\t\t\t} else {\n\t\t\t\treturn content;\n\t\t\t}\n\t\t}).join(\"\");\n\t};\n\n\t// import a list of modules into the list\n\tlist.i = function(modules, mediaQuery) {\n\t\tif(typeof modules === \"string\")\n\t\t\tmodules = [[null, modules, \"\"]];\n\t\tvar alreadyImportedModules = {};\n\t\tfor(var i = 0; i < this.length; i++) {\n\t\t\tvar id = this[i][0];\n\t\t\tif(typeof id === \"number\")\n\t\t\t\talreadyImportedModules[id] = true;\n\t\t}\n\t\tfor(i = 0; i < modules.length; i++) {\n\t\t\tvar item = modules[i];\n\t\t\t// skip already imported module\n\t\t\t// this implementation is not 100% perfect for weird media query combinations\n\t\t\t//  when a module is imported multiple times with different media queries.\n\t\t\t//  I hope this will never occur (Hey this way we have smaller bundles)\n\t\t\tif(typeof item[0] !== \"number\" || !alreadyImportedModules[item[0]]) {\n\t\t\t\tif(mediaQuery && !item[2]) {\n\t\t\t\t\titem[2] = mediaQuery;\n\t\t\t\t} else if(mediaQuery) {\n\t\t\t\t\titem[2] = \"(\" + item[2] + \") and (\" + mediaQuery + \")\";\n\t\t\t\t}\n\t\t\t\tlist.push(item);\n\t\t\t}\n\t\t}\n\t};\n\treturn list;\n};\n\nfunction cssWithMappingToString(item, useSourceMap) {\n\tvar content = item[1] || '';\n\tvar cssMapping = item[3];\n\tif (!cssMapping) {\n\t\treturn content;\n\t}\n\n\tif (useSourceMap && typeof btoa === 'function') {\n\t\tvar sourceMapping = toComment(cssMapping);\n\t\tvar sourceURLs = cssMapping.sources.map(function (source) {\n\t\t\treturn '/*# sourceURL=' + cssMapping.sourceRoot + source + ' */'\n\t\t});\n\n\t\treturn [content].concat(sourceURLs).concat([sourceMapping]).join('\\n');\n\t}\n\n\treturn [content].join('\\n');\n}\n\n// Adapted from convert-source-map (MIT)\nfunction toComment(sourceMap) {\n\t// eslint-disable-next-line no-undef\n\tvar base64 = btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap))));\n\tvar data = 'sourceMappingURL=data:application/json;charset=utf-8;base64,' + base64;\n\n\treturn '/*# ' + data + ' */';\n}\n"
-        }
-      ],
-      "filteredModules": 0,
-      "children": [],
-      "name": "extract-text-webpack-plugin node_modules/extract-text-webpack-plugin/dist node_modules/css-loader/index.js??ref--0-oneOf-1-2!node_modules/postcss-loader/lib/index.js??postcss!src/components/ImageQuote.css"
-    },
-    {
-      "errors": [],
-      "warnings": [],
-      "publicPath": "/",
-      "assetsByChunkName": {},
-      "assets": [],
-      "filteredAssets": 0,
-      "entrypoints": {
-        "undefined": {
-          "chunks": [
-            0
-          ],
-          "assets": [
-            "extract-text-webpack-plugin-output-filename"
-          ]
-        }
-      },
-      "chunks": [
-        {
-          "id": 0,
-          "rendered": true,
-          "initial": true,
-          "entry": true,
-          "extraAsync": false,
           "size": 2585,
           "names": [],
           "files": [
@@ -17567,21 +17199,21 @@
           "initial": true,
           "entry": true,
           "extraAsync": false,
-          "size": 2448,
+          "size": 3277,
           "names": [],
           "files": [
             "extract-text-webpack-plugin-output-filename"
           ],
-          "hash": "6bdfb096b4091b6e2efe",
+          "hash": "caa6a7813dd2629d5115",
           "parents": [],
           "modules": [
             {
               "id": 0,
-              "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
-              "name": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+              "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
+              "name": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
               "index": 0,
               "index2": 1,
-              "size": 188,
+              "size": 1017,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -17601,7 +17233,7 @@
               "providedExports": null,
               "optimizationBailout": [],
               "depth": 0,
-              "source": "exports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \".pm__spacer{display:block}\", \"\"]);\n\n// exports\n"
+              "source": "exports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \".pm__image-quote{background:#353535;max-height:45vh;position:relative}.pm__image-quote img{max-height:45vh}.pm__image-quote__container{display:block;height:100%;position:absolute;top:0;width:100%;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%)}.pm__image-quote__quote{-ms-flex-align:left;align-items:left;color:#fff;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-flex-pack:center;justify-content:center;height:100%;font-size:3vh;line-height:1.35em;right:0;position:absolute;width:60%;top:0}.pm__image-quote__attribution{font-size:1.85vh;margin-top:1vh}@media screen and (max-width:480px){.pm__image-quote__quote{font-size:2vh}}@media screen and (max-width:800px){.pm__image-quote__quote{background:hsla(0,0%,100%,.5);color:var(--pm__black);padding:5%;width:100%}}\", \"\"]);\n\n// exports\n"
             },
             {
               "id": 1,
@@ -17618,18 +17250,18 @@
                 0
               ],
               "assets": [],
-              "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
+              "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
               "issuerId": 0,
-              "issuerName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+              "issuerName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "reasons": [
                 {
                   "moduleId": 0,
-                  "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
-                  "module": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
-                  "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+                  "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
+                  "module": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
+                  "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
                   "type": "cjs require",
                   "userRequest": "../../node_modules/css-loader/lib/css-base.js",
                   "loc": "1:27-83"
@@ -17646,9 +17278,9 @@
           "origins": [
             {
               "moduleId": 0,
-              "module": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
-              "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
-              "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+              "module": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
+              "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
+              "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
               "loc": "",
               "reasons": []
             }
@@ -17658,11 +17290,11 @@
       "modules": [
         {
           "id": 0,
-          "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
-          "name": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+          "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
+          "name": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
           "index": 0,
           "index2": 1,
-          "size": 188,
+          "size": 1017,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -17682,7 +17314,7 @@
           "providedExports": null,
           "optimizationBailout": [],
           "depth": 0,
-          "source": "exports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \".pm__spacer{display:block}\", \"\"]);\n\n// exports\n"
+          "source": "exports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \".pm__image-quote{background:#353535;max-height:45vh;position:relative}.pm__image-quote img{max-height:45vh}.pm__image-quote__container{display:block;height:100%;position:absolute;top:0;width:100%;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%)}.pm__image-quote__quote{-ms-flex-align:left;align-items:left;color:#fff;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-flex-pack:center;justify-content:center;height:100%;font-size:3vh;line-height:1.35em;right:0;position:absolute;width:60%;top:0}.pm__image-quote__attribution{font-size:1.85vh;margin-top:1vh}@media screen and (max-width:480px){.pm__image-quote__quote{font-size:2vh}}@media screen and (max-width:800px){.pm__image-quote__quote{background:hsla(0,0%,100%,.5);color:var(--pm__black);padding:5%;width:100%}}\", \"\"]);\n\n// exports\n"
         },
         {
           "id": 1,
@@ -17699,18 +17331,18 @@
             0
           ],
           "assets": [],
-          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
+          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
           "issuerId": 0,
-          "issuerName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+          "issuerName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "reasons": [
             {
               "moduleId": 0,
-              "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
-              "module": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
-              "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+              "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/ImageQuote.css",
+              "module": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
+              "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/ImageQuote.css",
               "type": "cjs require",
               "userRequest": "../../node_modules/css-loader/lib/css-base.js",
               "loc": "1:27-83"
@@ -17725,7 +17357,191 @@
       ],
       "filteredModules": 0,
       "children": [],
-      "name": "extract-text-webpack-plugin node_modules/extract-text-webpack-plugin/dist node_modules/css-loader/index.js??ref--0-oneOf-1-2!node_modules/postcss-loader/lib/index.js??postcss!src/components/Spacer.css"
+      "name": "extract-text-webpack-plugin node_modules/extract-text-webpack-plugin/dist node_modules/css-loader/index.js??ref--0-oneOf-1-2!node_modules/postcss-loader/lib/index.js??postcss!src/components/ImageQuote.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "undefined": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "extract-text-webpack-plugin-output-filename"
+          ]
+        }
+      },
+      "chunks": [
+        {
+          "id": 0,
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "extraAsync": false,
+          "size": 2818,
+          "names": [],
+          "files": [
+            "extract-text-webpack-plugin-output-filename"
+          ],
+          "hash": "828dd2f0995369611322",
+          "parents": [],
+          "modules": [
+            {
+              "id": 0,
+              "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
+              "name": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
+              "index": 0,
+              "index2": 1,
+              "size": 558,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "assets": [],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "reasons": [],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [],
+              "depth": 0,
+              "source": "exports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \".pm-stat__icon{background:gray;border-radius:100%;height:3em;margin:0 auto 1em;width:3em}.pm-stat{text-align:center;font-size:2.15vh;line-height:1.65em;width:28%}.pm-stats{display:-ms-flexbox;display:flex;-ms-flex-pack:justify;justify-content:space-between;margin:0 auto;max-width:var(--desktop-width)}@media screen and (max-width:800px){.pm-stat{margin:0 auto;width:80%}.pm-stats{display:block}}\", \"\"]);\n\n// exports\n"
+            },
+            {
+              "id": 1,
+              "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/lib/css-base.js",
+              "name": "./node_modules/css-loader/lib/css-base.js",
+              "index": 1,
+              "index2": 0,
+              "size": 2260,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "assets": [],
+              "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
+              "issuerId": 0,
+              "issuerName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "reasons": [
+                {
+                  "moduleId": 0,
+                  "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
+                  "module": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
+                  "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
+                  "type": "cjs require",
+                  "userRequest": "../../node_modules/css-loader/lib/css-base.js",
+                  "loc": "1:27-83"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [],
+              "depth": 1,
+              "source": "/*\n\tMIT License http://www.opensource.org/licenses/mit-license.php\n\tAuthor Tobias Koppers @sokra\n*/\n// css base code, injected by the css-loader\nmodule.exports = function(useSourceMap) {\n\tvar list = [];\n\n\t// return the list of modules as css string\n\tlist.toString = function toString() {\n\t\treturn this.map(function (item) {\n\t\t\tvar content = cssWithMappingToString(item, useSourceMap);\n\t\t\tif(item[2]) {\n\t\t\t\treturn \"@media \" + item[2] + \"{\" + content + \"}\";\n\t\t\t} else {\n\t\t\t\treturn content;\n\t\t\t}\n\t\t}).join(\"\");\n\t};\n\n\t// import a list of modules into the list\n\tlist.i = function(modules, mediaQuery) {\n\t\tif(typeof modules === \"string\")\n\t\t\tmodules = [[null, modules, \"\"]];\n\t\tvar alreadyImportedModules = {};\n\t\tfor(var i = 0; i < this.length; i++) {\n\t\t\tvar id = this[i][0];\n\t\t\tif(typeof id === \"number\")\n\t\t\t\talreadyImportedModules[id] = true;\n\t\t}\n\t\tfor(i = 0; i < modules.length; i++) {\n\t\t\tvar item = modules[i];\n\t\t\t// skip already imported module\n\t\t\t// this implementation is not 100% perfect for weird media query combinations\n\t\t\t//  when a module is imported multiple times with different media queries.\n\t\t\t//  I hope this will never occur (Hey this way we have smaller bundles)\n\t\t\tif(typeof item[0] !== \"number\" || !alreadyImportedModules[item[0]]) {\n\t\t\t\tif(mediaQuery && !item[2]) {\n\t\t\t\t\titem[2] = mediaQuery;\n\t\t\t\t} else if(mediaQuery) {\n\t\t\t\t\titem[2] = \"(\" + item[2] + \") and (\" + mediaQuery + \")\";\n\t\t\t\t}\n\t\t\t\tlist.push(item);\n\t\t\t}\n\t\t}\n\t};\n\treturn list;\n};\n\nfunction cssWithMappingToString(item, useSourceMap) {\n\tvar content = item[1] || '';\n\tvar cssMapping = item[3];\n\tif (!cssMapping) {\n\t\treturn content;\n\t}\n\n\tif (useSourceMap && typeof btoa === 'function') {\n\t\tvar sourceMapping = toComment(cssMapping);\n\t\tvar sourceURLs = cssMapping.sources.map(function (source) {\n\t\t\treturn '/*# sourceURL=' + cssMapping.sourceRoot + source + ' */'\n\t\t});\n\n\t\treturn [content].concat(sourceURLs).concat([sourceMapping]).join('\\n');\n\t}\n\n\treturn [content].join('\\n');\n}\n\n// Adapted from convert-source-map (MIT)\nfunction toComment(sourceMap) {\n\t// eslint-disable-next-line no-undef\n\tvar base64 = btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap))));\n\tvar data = 'sourceMappingURL=data:application/json;charset=utf-8;base64,' + base64;\n\n\treturn '/*# ' + data + ' */';\n}\n"
+            }
+          ],
+          "filteredModules": 0,
+          "origins": [
+            {
+              "moduleId": 0,
+              "module": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
+              "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
+              "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
+              "loc": "",
+              "reasons": []
+            }
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "id": 0,
+          "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
+          "name": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
+          "index": 0,
+          "index2": 1,
+          "size": 558,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "assets": [],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "reasons": [],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [],
+          "depth": 0,
+          "source": "exports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \".pm-stat__icon{background:gray;border-radius:100%;height:3em;margin:0 auto 1em;width:3em}.pm-stat{text-align:center;font-size:2.15vh;line-height:1.65em;width:28%}.pm-stats{display:-ms-flexbox;display:flex;-ms-flex-pack:justify;justify-content:space-between;margin:0 auto;max-width:var(--desktop-width)}@media screen and (max-width:800px){.pm-stat{margin:0 auto;width:80%}.pm-stats{display:block}}\", \"\"]);\n\n// exports\n"
+        },
+        {
+          "id": 1,
+          "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/lib/css-base.js",
+          "name": "./node_modules/css-loader/lib/css-base.js",
+          "index": 1,
+          "index2": 0,
+          "size": 2260,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "assets": [],
+          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
+          "issuerId": 0,
+          "issuerName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Stats.css",
+              "module": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
+              "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Stats.css",
+              "type": "cjs require",
+              "userRequest": "../../node_modules/css-loader/lib/css-base.js",
+              "loc": "1:27-83"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [],
+          "depth": 1,
+          "source": "/*\n\tMIT License http://www.opensource.org/licenses/mit-license.php\n\tAuthor Tobias Koppers @sokra\n*/\n// css base code, injected by the css-loader\nmodule.exports = function(useSourceMap) {\n\tvar list = [];\n\n\t// return the list of modules as css string\n\tlist.toString = function toString() {\n\t\treturn this.map(function (item) {\n\t\t\tvar content = cssWithMappingToString(item, useSourceMap);\n\t\t\tif(item[2]) {\n\t\t\t\treturn \"@media \" + item[2] + \"{\" + content + \"}\";\n\t\t\t} else {\n\t\t\t\treturn content;\n\t\t\t}\n\t\t}).join(\"\");\n\t};\n\n\t// import a list of modules into the list\n\tlist.i = function(modules, mediaQuery) {\n\t\tif(typeof modules === \"string\")\n\t\t\tmodules = [[null, modules, \"\"]];\n\t\tvar alreadyImportedModules = {};\n\t\tfor(var i = 0; i < this.length; i++) {\n\t\t\tvar id = this[i][0];\n\t\t\tif(typeof id === \"number\")\n\t\t\t\talreadyImportedModules[id] = true;\n\t\t}\n\t\tfor(i = 0; i < modules.length; i++) {\n\t\t\tvar item = modules[i];\n\t\t\t// skip already imported module\n\t\t\t// this implementation is not 100% perfect for weird media query combinations\n\t\t\t//  when a module is imported multiple times with different media queries.\n\t\t\t//  I hope this will never occur (Hey this way we have smaller bundles)\n\t\t\tif(typeof item[0] !== \"number\" || !alreadyImportedModules[item[0]]) {\n\t\t\t\tif(mediaQuery && !item[2]) {\n\t\t\t\t\titem[2] = mediaQuery;\n\t\t\t\t} else if(mediaQuery) {\n\t\t\t\t\titem[2] = \"(\" + item[2] + \") and (\" + mediaQuery + \")\";\n\t\t\t\t}\n\t\t\t\tlist.push(item);\n\t\t\t}\n\t\t}\n\t};\n\treturn list;\n};\n\nfunction cssWithMappingToString(item, useSourceMap) {\n\tvar content = item[1] || '';\n\tvar cssMapping = item[3];\n\tif (!cssMapping) {\n\t\treturn content;\n\t}\n\n\tif (useSourceMap && typeof btoa === 'function') {\n\t\tvar sourceMapping = toComment(cssMapping);\n\t\tvar sourceURLs = cssMapping.sources.map(function (source) {\n\t\t\treturn '/*# sourceURL=' + cssMapping.sourceRoot + source + ' */'\n\t\t});\n\n\t\treturn [content].concat(sourceURLs).concat([sourceMapping]).join('\\n');\n\t}\n\n\treturn [content].join('\\n');\n}\n\n// Adapted from convert-source-map (MIT)\nfunction toComment(sourceMap) {\n\t// eslint-disable-next-line no-undef\n\tvar base64 = btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap))));\n\tvar data = 'sourceMappingURL=data:application/json;charset=utf-8;base64,' + base64;\n\n\treturn '/*# ' + data + ' */';\n}\n"
+        }
+      ],
+      "filteredModules": 0,
+      "children": [],
+      "name": "extract-text-webpack-plugin node_modules/extract-text-webpack-plugin/dist node_modules/css-loader/index.js??ref--0-oneOf-1-2!node_modules/postcss-loader/lib/index.js??postcss!src/components/Stats.css"
     },
     {
       "errors": [],
@@ -17910,6 +17726,190 @@
       "filteredModules": 0,
       "children": [],
       "name": "extract-text-webpack-plugin node_modules/extract-text-webpack-plugin/dist node_modules/css-loader/index.js??ref--0-oneOf-1-2!node_modules/postcss-loader/lib/index.js??postcss!src/components/Footer.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "undefined": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "extract-text-webpack-plugin-output-filename"
+          ]
+        }
+      },
+      "chunks": [
+        {
+          "id": 0,
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "extraAsync": false,
+          "size": 2448,
+          "names": [],
+          "files": [
+            "extract-text-webpack-plugin-output-filename"
+          ],
+          "hash": "6bdfb096b4091b6e2efe",
+          "parents": [],
+          "modules": [
+            {
+              "id": 0,
+              "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
+              "name": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+              "index": 0,
+              "index2": 1,
+              "size": 188,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "assets": [],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "reasons": [],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [],
+              "depth": 0,
+              "source": "exports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \".pm__spacer{display:block}\", \"\"]);\n\n// exports\n"
+            },
+            {
+              "id": 1,
+              "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/lib/css-base.js",
+              "name": "./node_modules/css-loader/lib/css-base.js",
+              "index": 1,
+              "index2": 0,
+              "size": 2260,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "assets": [],
+              "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
+              "issuerId": 0,
+              "issuerName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "reasons": [
+                {
+                  "moduleId": 0,
+                  "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
+                  "module": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+                  "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+                  "type": "cjs require",
+                  "userRequest": "../../node_modules/css-loader/lib/css-base.js",
+                  "loc": "1:27-83"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [],
+              "depth": 1,
+              "source": "/*\n\tMIT License http://www.opensource.org/licenses/mit-license.php\n\tAuthor Tobias Koppers @sokra\n*/\n// css base code, injected by the css-loader\nmodule.exports = function(useSourceMap) {\n\tvar list = [];\n\n\t// return the list of modules as css string\n\tlist.toString = function toString() {\n\t\treturn this.map(function (item) {\n\t\t\tvar content = cssWithMappingToString(item, useSourceMap);\n\t\t\tif(item[2]) {\n\t\t\t\treturn \"@media \" + item[2] + \"{\" + content + \"}\";\n\t\t\t} else {\n\t\t\t\treturn content;\n\t\t\t}\n\t\t}).join(\"\");\n\t};\n\n\t// import a list of modules into the list\n\tlist.i = function(modules, mediaQuery) {\n\t\tif(typeof modules === \"string\")\n\t\t\tmodules = [[null, modules, \"\"]];\n\t\tvar alreadyImportedModules = {};\n\t\tfor(var i = 0; i < this.length; i++) {\n\t\t\tvar id = this[i][0];\n\t\t\tif(typeof id === \"number\")\n\t\t\t\talreadyImportedModules[id] = true;\n\t\t}\n\t\tfor(i = 0; i < modules.length; i++) {\n\t\t\tvar item = modules[i];\n\t\t\t// skip already imported module\n\t\t\t// this implementation is not 100% perfect for weird media query combinations\n\t\t\t//  when a module is imported multiple times with different media queries.\n\t\t\t//  I hope this will never occur (Hey this way we have smaller bundles)\n\t\t\tif(typeof item[0] !== \"number\" || !alreadyImportedModules[item[0]]) {\n\t\t\t\tif(mediaQuery && !item[2]) {\n\t\t\t\t\titem[2] = mediaQuery;\n\t\t\t\t} else if(mediaQuery) {\n\t\t\t\t\titem[2] = \"(\" + item[2] + \") and (\" + mediaQuery + \")\";\n\t\t\t\t}\n\t\t\t\tlist.push(item);\n\t\t\t}\n\t\t}\n\t};\n\treturn list;\n};\n\nfunction cssWithMappingToString(item, useSourceMap) {\n\tvar content = item[1] || '';\n\tvar cssMapping = item[3];\n\tif (!cssMapping) {\n\t\treturn content;\n\t}\n\n\tif (useSourceMap && typeof btoa === 'function') {\n\t\tvar sourceMapping = toComment(cssMapping);\n\t\tvar sourceURLs = cssMapping.sources.map(function (source) {\n\t\t\treturn '/*# sourceURL=' + cssMapping.sourceRoot + source + ' */'\n\t\t});\n\n\t\treturn [content].concat(sourceURLs).concat([sourceMapping]).join('\\n');\n\t}\n\n\treturn [content].join('\\n');\n}\n\n// Adapted from convert-source-map (MIT)\nfunction toComment(sourceMap) {\n\t// eslint-disable-next-line no-undef\n\tvar base64 = btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap))));\n\tvar data = 'sourceMappingURL=data:application/json;charset=utf-8;base64,' + base64;\n\n\treturn '/*# ' + data + ' */';\n}\n"
+            }
+          ],
+          "filteredModules": 0,
+          "origins": [
+            {
+              "moduleId": 0,
+              "module": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
+              "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
+              "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+              "loc": "",
+              "reasons": []
+            }
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "id": 0,
+          "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
+          "name": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+          "index": 0,
+          "index2": 1,
+          "size": 188,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "assets": [],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "reasons": [],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [],
+          "depth": 0,
+          "source": "exports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \".pm__spacer{display:block}\", \"\"]);\n\n// exports\n"
+        },
+        {
+          "id": 1,
+          "identifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/lib/css-base.js",
+          "name": "./node_modules/css-loader/lib/css-base.js",
+          "index": 1,
+          "index2": 0,
+          "size": 2260,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "assets": [],
+          "issuer": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
+          "issuerId": 0,
+          "issuerName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/css-loader/index.js??ref--0-oneOf-1-2!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/node_modules/postcss-loader/lib/index.js??postcss!/Users/jonathanreilly/Personal/ProgressiveMassachusettsCJR/src/components/Spacer.css",
+              "module": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+              "moduleName": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/components/Spacer.css",
+              "type": "cjs require",
+              "userRequest": "../../node_modules/css-loader/lib/css-base.js",
+              "loc": "1:27-83"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [],
+          "depth": 1,
+          "source": "/*\n\tMIT License http://www.opensource.org/licenses/mit-license.php\n\tAuthor Tobias Koppers @sokra\n*/\n// css base code, injected by the css-loader\nmodule.exports = function(useSourceMap) {\n\tvar list = [];\n\n\t// return the list of modules as css string\n\tlist.toString = function toString() {\n\t\treturn this.map(function (item) {\n\t\t\tvar content = cssWithMappingToString(item, useSourceMap);\n\t\t\tif(item[2]) {\n\t\t\t\treturn \"@media \" + item[2] + \"{\" + content + \"}\";\n\t\t\t} else {\n\t\t\t\treturn content;\n\t\t\t}\n\t\t}).join(\"\");\n\t};\n\n\t// import a list of modules into the list\n\tlist.i = function(modules, mediaQuery) {\n\t\tif(typeof modules === \"string\")\n\t\t\tmodules = [[null, modules, \"\"]];\n\t\tvar alreadyImportedModules = {};\n\t\tfor(var i = 0; i < this.length; i++) {\n\t\t\tvar id = this[i][0];\n\t\t\tif(typeof id === \"number\")\n\t\t\t\talreadyImportedModules[id] = true;\n\t\t}\n\t\tfor(i = 0; i < modules.length; i++) {\n\t\t\tvar item = modules[i];\n\t\t\t// skip already imported module\n\t\t\t// this implementation is not 100% perfect for weird media query combinations\n\t\t\t//  when a module is imported multiple times with different media queries.\n\t\t\t//  I hope this will never occur (Hey this way we have smaller bundles)\n\t\t\tif(typeof item[0] !== \"number\" || !alreadyImportedModules[item[0]]) {\n\t\t\t\tif(mediaQuery && !item[2]) {\n\t\t\t\t\titem[2] = mediaQuery;\n\t\t\t\t} else if(mediaQuery) {\n\t\t\t\t\titem[2] = \"(\" + item[2] + \") and (\" + mediaQuery + \")\";\n\t\t\t\t}\n\t\t\t\tlist.push(item);\n\t\t\t}\n\t\t}\n\t};\n\treturn list;\n};\n\nfunction cssWithMappingToString(item, useSourceMap) {\n\tvar content = item[1] || '';\n\tvar cssMapping = item[3];\n\tif (!cssMapping) {\n\t\treturn content;\n\t}\n\n\tif (useSourceMap && typeof btoa === 'function') {\n\t\tvar sourceMapping = toComment(cssMapping);\n\t\tvar sourceURLs = cssMapping.sources.map(function (source) {\n\t\t\treturn '/*# sourceURL=' + cssMapping.sourceRoot + source + ' */'\n\t\t});\n\n\t\treturn [content].concat(sourceURLs).concat([sourceMapping]).join('\\n');\n\t}\n\n\treturn [content].join('\\n');\n}\n\n// Adapted from convert-source-map (MIT)\nfunction toComment(sourceMap) {\n\t// eslint-disable-next-line no-undef\n\tvar base64 = btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap))));\n\tvar data = 'sourceMappingURL=data:application/json;charset=utf-8;base64,' + base64;\n\n\treturn '/*# ' + data + ' */';\n}\n"
+        }
+      ],
+      "filteredModules": 0,
+      "children": [],
+      "name": "extract-text-webpack-plugin node_modules/extract-text-webpack-plugin/dist node_modules/css-loader/index.js??ref--0-oneOf-1-2!node_modules/postcss-loader/lib/index.js??postcss!src/components/Spacer.css"
     }
   ]
 }
