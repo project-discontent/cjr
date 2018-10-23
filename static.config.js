@@ -3,8 +3,8 @@ import Document from './src/Document'
 
 export default {
   Document,
+  basePath: "cjr",
   paths: {
-    basePath: "cjr",
     dist: "docs"
   },
   getSiteData: () => ({
