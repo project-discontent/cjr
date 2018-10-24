@@ -6,7 +6,7 @@ import pdLogoImg from '../static/discontent_icon.png'
 import './Footer.css'
 
 export default (props) =>
-  <div className="pm__footer">
+  <div className="pm__footer pm--max-contained">
     <div className="pm__organization">
       <img className="progressive-mass__logo" src={logoImg} alt="Progressive Massachusetts Logo"/>
       <p>

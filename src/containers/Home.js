@@ -15,22 +15,22 @@ export default withSiteData(() => (
   <div>
     <img className="pm__banner-img" src={cellImg} alt="Image of a prison cell with a shaft of light from a small window" />
     <Embed />
-    <Spacer height="12vh"/>
+    <Spacer height="8em"/>
     <Stats />
 
-    <Spacer height="12vh"/>
+    <Spacer height="8em"/>
 
     <CTA>
       <a className="emphasize" href="#">Learn more</a> about the provisions of this bill and the fight to get it passed.
     </CTA>
 
-    <Spacer height="12vh"/>
+    <Spacer height="8em"/>
 
     <ImageQuote alt="Image of David Sloan" src={davidImg} attribution="David Sloan, Progressive Massachusetts">
       "Having a program, a structure, an organization around the state gives us a lot of opportunity to plug people in week after week."
     </ImageQuote>
 
-    <Spacer height="12vh"/>
+    <Spacer height="8em"/>
 
     <CTA>
       Support an organization dedicated to organized action and real change.
@@ -40,13 +40,13 @@ export default withSiteData(() => (
       We need your help to take the next step.
     </MiniQuote>
 
-    <Spacer height="12vh"/>
+    <Spacer height="8em"/>
 
     <div className="pm__donation-form pm--centered">
       Donation Form
     </div>
 
-    <Spacer height="12vh"/>
+    <Spacer height="8em"/>
 
     <Footer />
 

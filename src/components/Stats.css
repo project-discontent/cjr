@@ -23,7 +23,7 @@
 
 @media screen and (max-width: 800px){
   .pm-stat {
-    margin: 0 auto;
+    margin: 0 auto 2em;
     width: 80%;
   }
   .pm-stats {
