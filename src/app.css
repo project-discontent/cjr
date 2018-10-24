@@ -38,26 +38,14 @@ img {
   max-width: 100%;
 }
 
-nav {
-  width: 100%;
-  background: #108db8;
-}
-
-nav a {
-  color: white;
-  padding: 1rem;
-  display: inline-block;
-  z-index: 1;
-}
 
 .pm-button {
   border-radius: 5px;
 }
 
 
-
 .content {
-  margin-top: -5em;
+  /* margin-top: -5em; */
 }
 
 
@@ -73,11 +61,19 @@ nav a {
 }
 
 .pm--max-contained {
-  /* border: 2px solid aqua; */
   margin: 0 auto;
-  max-width: var(--desktop-width);
+  width: var(--desktop-width);
+  max-width: 80%;
+  padding: 1em 2em;
   width: 100%;
 }
+
+@media screen and (max-width: 800px){
+  .pm--max-contained {
+    max-width: 100%;
+  }
+}
+
 
 .pm__donation-form {
   align-items: center;
@@ -90,4 +86,7 @@ nav a {
   width: 63%;
 }
 
+.pm__banner-img {
+  width: 100%;
+}
 

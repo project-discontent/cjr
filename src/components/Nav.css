@@ -3,6 +3,8 @@
   background: none !important;
   display: flex;
   height: 5em;
+  margin-top: 1em;
+  margin-bottom: -6em;
   justify-content: space-between;
   position: relative;
 }
@@ -13,4 +15,10 @@
   color: white !important;
   font-size: 1.65vh;
   padding: 1vh 1.45vh;
+}
+
+@media screen and (max-width: 480px){
+  .pm-navbar a {
+    font-size: 1em !important;
+  }
 }

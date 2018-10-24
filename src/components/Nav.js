@@ -5,7 +5,7 @@ import { Link } from 'react-static'
 import './Nav.css'
 
 const Logo = (props) =>
-  <Link exact to="/" style={{ fontSize: "2vh", textAlign: "left", lineHeight: "1.35em" }} >
+  <Link exact to="/" style={{ color: "white", fontSize: "1.25em", textAlign: "left", lineHeight: "1.25em" }} >
     PROGRESSIVE
     <br/>
     MASSACHUSETTS

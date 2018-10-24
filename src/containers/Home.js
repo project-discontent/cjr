@@ -13,7 +13,7 @@ import davidImg from '../static/david_bg.png'
 
 export default withSiteData(() => (
   <div>
-    <img src={cellImg} alt="Image of a prison cell with a shaft of light from a small window" />
+    <img className="pm__banner-img" src={cellImg} alt="Image of a prison cell with a shaft of light from a small window" />
     <Embed />
     <Spacer height="12vh"/>
     <Stats />
